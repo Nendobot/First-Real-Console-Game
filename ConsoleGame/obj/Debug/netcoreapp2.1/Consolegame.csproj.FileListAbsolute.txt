@@ -1,0 +1,13 @@
+C:\Users\Nendo\Documents\First-Real-Console-Game\ConsoleGame\obj\Debug\netcoreapp2.1\Consolegame.csproj.AssemblyReference.cache
+C:\Users\Nendo\Documents\First-Real-Console-Game\ConsoleGame\obj\Debug\netcoreapp2.1\Consolegame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nendo\Documents\First-Real-Console-Game\ConsoleGame\obj\Debug\netcoreapp2.1\Consolegame.AssemblyInfoInputs.cache
+C:\Users\Nendo\Documents\First-Real-Console-Game\ConsoleGame\obj\Debug\netcoreapp2.1\Consolegame.AssemblyInfo.cs
+C:\Users\Nendo\Documents\First-Real-Console-Game\ConsoleGame\obj\Debug\netcoreapp2.1\Consolegame.csproj.CoreCompileInputs.cache
+C:\Users\Nendo\Documents\First-Real-Console-Game\ConsoleGame\bin\Debug\netcoreapp2.1\Consolegame.deps.json
+C:\Users\Nendo\Documents\First-Real-Console-Game\ConsoleGame\bin\Debug\netcoreapp2.1\Consolegame.runtimeconfig.json
+C:\Users\Nendo\Documents\First-Real-Console-Game\ConsoleGame\bin\Debug\netcoreapp2.1\Consolegame.runtimeconfig.dev.json
+C:\Users\Nendo\Documents\First-Real-Console-Game\ConsoleGame\bin\Debug\netcoreapp2.1\Consolegame.dll
+C:\Users\Nendo\Documents\First-Real-Console-Game\ConsoleGame\bin\Debug\netcoreapp2.1\Consolegame.pdb
+C:\Users\Nendo\Documents\First-Real-Console-Game\ConsoleGame\obj\Debug\netcoreapp2.1\Consolegame.dll
+C:\Users\Nendo\Documents\First-Real-Console-Game\ConsoleGame\obj\Debug\netcoreapp2.1\Consolegame.pdb
+C:\Users\Nendo\Documents\First-Real-Console-Game\ConsoleGame\obj\Debug\netcoreapp2.1\Consolegame.genruntimeconfig.cache

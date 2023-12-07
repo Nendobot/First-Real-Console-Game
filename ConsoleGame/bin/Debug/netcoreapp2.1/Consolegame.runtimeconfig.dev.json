@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Nendo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Nendo\\.nuget\\packages"
+    ]
+  }
+}
