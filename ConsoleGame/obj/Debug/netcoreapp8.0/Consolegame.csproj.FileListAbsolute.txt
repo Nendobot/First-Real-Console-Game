@@ -12,3 +12,4 @@ C:\Users\Nendo\Documents\First-Real-Console-Game\ConsoleGame\obj\Debug\netcoreap
 C:\Users\Nendo\Documents\First-Real-Console-Game\ConsoleGame\obj\Debug\netcoreapp8.0\Consolegame.pdb
 C:\Users\Nendo\Documents\First-Real-Console-Game\ConsoleGame\obj\Debug\netcoreapp8.0\Consolegame.genruntimeconfig.cache
 C:\Users\Nendo\Documents\First-Real-Console-Game\ConsoleGame\obj\Debug\netcoreapp8.0\ref\Consolegame.dll
+C:\Users\Nendo\Documents\First-Real-Console-Game\ConsoleGame\obj\Debug\netcoreapp8.0\Consolegame.sourcelink.json
